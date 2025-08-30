@@ -1,0 +1,79 @@
+Main(),Actions,{TypeError('list_users() takes 0 positional arguments but 2 were given')},Failure,2025-08-27T16:16:10.002894+00:00
+IAM,Test-User,Username listed,Success,2025-08-27T16:19:13.198826+00:00
+IAM,user-adeoye,Username listed,Success,2025-08-27T16:19:13.199567+00:00
+IAM,Test-User,Username listed,Success,2025-08-27T16:19:43.891461+00:00
+IAM,user-adeoye,Username listed,Success,2025-08-27T16:19:43.892095+00:00
+IAM,user-adeoye,List User Access keys,Success,2025-08-27T16:40:15.763291+00:00
+IAM,user-adeoye,List User Access keys,Success,2025-08-27T16:40:15.764635+00:00
+IAM,Test-User,List User Access keys,Success,2025-08-27T16:42:25.152006+00:00
+IAM,Test-User,List User Access keys,Success,2025-08-27T16:42:25.153838+00:00
+IAM,Test-User,Deleting-old-Access-Key,Success,2025-08-27T16:44:23.123954+00:00
+IAM,Test-User,Deleting-old-Access-Key,Success,2025-08-27T16:44:23.399885+00:00
+Main(),Actions,"{UnboundLocalError(""cannot access local variable 'username' where it is not associated with a value"")}",Failure,2025-08-27T16:49:45.542070+00:00
+Main(),Actions,"{UnboundLocalError(""cannot access local variable 'username' where it is not associated with a value"")}",Failure,2025-08-27T16:51:19.546317+00:00
+Main(),Actions,"{UnboundLocalError(""cannot access local variable 'username' where it is not associated with a value"")}",Failure,2025-08-27T16:52:49.672643+00:00
+IAM,Test-User,List User Access Keys,Empty,2025-08-27T16:54:54.058570+00:00
+IAM,Test-User,List User Access Keys,Empty,2025-08-27T16:55:22.985013+00:00
+IAM,Test-User,List User Access Keys,Empty,2025-08-27T16:55:44.846307+00:00
+Main(),Actions,{TypeError('list_all_buckets() takes 1 positional argument but 2 were given')},Failure,2025-08-27T16:58:16.505481+00:00
+s3,my-test-boto3-bucket-2025,Listing s3 buckets,Success,2025-08-27T17:05:55.355615+00:00
+Main(),Actions,"{AttributeError(""'Namespace' object has no attribute 'local_path'"")}",Failure,2025-08-27T17:13:38.032899+00:00
+Main(),Actions,"{AttributeError(""'Namespace' object has no attribute 'local_path'"")}",Failure,2025-08-27T17:15:14.440100+00:00
+Main(),Actions,"{AttributeError(""'Namespace' object has no attribute 'local_path'"")}",Failure,2025-08-27T17:20:35.135055+00:00
+S3,my-test-boto3-bucket-2025,upload-file,Success,2025-08-27T17:26:06.063979+00:00
+S3,my-test-boto3-bucket-2025,upload-file,Success,2025-08-27T17:26:06.956139+00:00
+S3,my-test-boto3-bucket-2025,file-added-to-deletelist,Success,2025-08-27T17:34:31.137103+00:00
+S3,my-test-boto3-bucket-2025,file-added-to-deletelist,Success,2025-08-27T17:34:31.138311+00:00
+S3,my-test-boto3-bucket-2025,file-deletion,Success,2025-08-27T17:34:31.435585+00:00
+Main(),Actions,{TypeError('list_instances() takes 0 positional arguments but 2 were given')},Failure,2025-08-27T17:43:47.602538+00:00
+EC2,i-03314128da3d2b615,Listing Instance,Success,2025-08-27T17:44:49.658275+00:00
+EC2,i-0eda4a15549c8879f,Listing Instance,Success,2025-08-27T17:44:49.659370+00:00
+EC2,i-00d2c68e0fed2baaf,Listing Instance,Success,2025-08-27T17:44:49.660677+00:00
+EC2,,[MATHCES] 0,Success,2025-08-27T17:46:53.678960+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T17:54:59.228663+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T17:54:59.230933+00:00
+EC2,i-03314128da3d2b615,Listing Instance,Success,2025-08-27T17:57:13.095206+00:00
+EC2,i-0eda4a15549c8879f,Listing Instance,Success,2025-08-27T17:57:13.096481+00:00
+EC2,i-00d2c68e0fed2baaf,Listing Instance,Success,2025-08-27T17:57:13.097858+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T17:58:00.227959+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T17:58:00.242460+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T17:58:54.755520+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T17:58:54.757511+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T17:59:08.763598+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T17:59:08.764756+00:00
+EC2,i-03314128da3d2b615,Listing Instance,Success,2025-08-27T18:00:03.907953+00:00
+EC2,i-0eda4a15549c8879f,Listing Instance,Success,2025-08-27T18:00:03.908987+00:00
+EC2,i-00d2c68e0fed2baaf,Listing Instance,Success,2025-08-27T18:00:03.910166+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T18:01:34.957133+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T18:01:34.958085+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T18:03:07.279641+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T18:03:07.280933+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T18:04:07.725142+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T18:04:07.726380+00:00
+EC2,i-03314128da3d2b615,Listing Instance,Success,2025-08-27T18:04:35.256683+00:00
+EC2,i-0eda4a15549c8879f,Listing Instance,Success,2025-08-27T18:04:35.257780+00:00
+EC2,i-00d2c68e0fed2baaf,Listing Instance,Success,2025-08-27T18:04:35.258981+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T18:04:47.665122+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T18:04:47.666967+00:00
+EC2,i-0eda4a15549c8879f,Waiting to stop,Success,2025-08-27T18:10:37.152420+00:00
+EC2,i-0eda4a15549c8879f,stopped instance,Success,2025-08-27T18:11:08.889217+00:00
+EC2,i-03314128da3d2b615,Listing Instance,Success,2025-08-27T18:19:52.066305+00:00
+EC2,i-0eda4a15549c8879f,Listing Instance,Success,2025-08-27T18:19:52.067849+00:00
+EC2,i-00d2c68e0fed2baaf,Listing Instance,Success,2025-08-27T18:19:52.068916+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T18:20:23.779384+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T18:20:23.780306+00:00
+EC2,i-03314128da3d2b615,Listing Instance,Success,2025-08-27T18:21:35.825586+00:00
+EC2,i-0eda4a15549c8879f,Listing Instance,Success,2025-08-27T18:21:35.826568+00:00
+EC2,i-00d2c68e0fed2baaf,Listing Instance,Success,2025-08-27T18:21:35.827745+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T18:22:08.129296+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T18:22:08.130210+00:00
+EC2,i-03314128da3d2b615,Listing Instance,Success,2025-08-27T18:23:23.730613+00:00
+EC2,i-0eda4a15549c8879f,Listing Instance,Success,2025-08-27T18:23:23.731645+00:00
+EC2,i-00d2c68e0fed2baaf,Listing Instance,Success,2025-08-27T18:23:23.732727+00:00
+EC2,i-0eda4a15549c8879f,filtering for instances,Success,2025-08-27T18:23:49.509678+00:00
+EC2,,[MATHCES] 1,Success,2025-08-27T18:23:49.510472+00:00
+EC2,i-0eda4a15549c8879f,Waiting to stop,Success,2025-08-27T18:24:17.448625+00:00
+EC2,i-0eda4a15549c8879f,stopped instance,Success,2025-08-27T18:24:49.448478+00:00
+IAM,Test-User,Creating a new Access-Key,Failure,2025-08-30T01:43:58.951283+00:00
+IAM,Test-User,Creating a new Access-Key,Success,2025-08-30T01:45:28.070399+00:00
+IAM,Test-User,Delete-Specific-Key,Success,2025-08-30T01:53:00.222835+00:00

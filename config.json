@@ -1,0 +1,22 @@
+{
+  "_comment": "This config controls the EC2 section",
+  "tag_to_check": "env",
+  "stop_tag_value": "dev",
+  "instance_ids": ["i-03314128da3d2b615", "i-00d2c68e0fed2baaf"],
+
+  "_comment1": "This config controls the S3 section",
+  "bucket_name": "my-test-boto3-bucket-2025",
+  "local_file_path":"c:/Users/OLUWAPELUMI/.vscode/python/aws resource cleaner & auditor/picture_files",
+  "prefix": "new-pictures",
+  "cut_off_days": 60,
+
+
+  "_comment2": "This config controls the IAM section",
+  "username": "user-adeoye", 
+  "key_max_age": 25
+
+}
+
+
+
+

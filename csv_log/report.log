@@ -1,0 +1,120 @@
+2025-08-27 17:07:12,709 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:09:03,597 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:11:09,988 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:11:37,077 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:13:25,009 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:16:09,495 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:16:53,567 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:19:10,176 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:19:13,197 - INFO - Usernames listed successfully: ['Test-User', 'user-adeoye'] 
+2025-08-27 17:19:40,989 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:19:43,890 - INFO - Usernames listed successfully: ['Test-User', 'user-adeoye'] 
+2025-08-27 17:40:11,053 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:40:15,762 - INFO - Access keys for user-adeoye has been listed successfully.
+2025-08-27 17:40:15,763 - INFO - Access keys for user-adeoye has been listed successfully.
+2025-08-27 17:41:08,181 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:42:22,937 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:42:25,151 - INFO - Access keys for Test-User has been listed successfully.
+2025-08-27 17:42:25,152 - INFO - Access keys for Test-User has been listed successfully.
+2025-08-27 17:44:20,589 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:44:23,122 - INFO - Old key for Test-User has been deleted successfully
+2025-08-27 17:44:23,398 - INFO - Old key for Test-User has been deleted successfully
+2025-08-27 17:46:45,886 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:49:44,895 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:51:19,004 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:52:39,307 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:52:49,131 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:54:48,951 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:54:54,057 - INFO - Test-User does not have any keys at the moment
+2025-08-27 17:55:20,870 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:55:22,984 - ERROR - Test-User does not have any keys at the moment
+2025-08-27 17:55:42,316 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:55:44,845 - ERROR - Test-User does not have any keys at the moment
+2025-08-27 17:58:15,983 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 17:59:27,653 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:04:29,870 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:05:53,399 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:05:55,354 - INFO - All s3 buckets have been listed successfully
+2025-08-27 18:13:37,481 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:15:13,919 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:16:17,410 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:20:34,571 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:26:02,058 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:26:06,063 - INFO - perfect clouds.jfif has been uploaded to my-test-boto3-bucket-2025
+2025-08-27 18:26:06,955 - INFO - wallpaper1.jfif has been uploaded to my-test-boto3-bucket-2025
+2025-08-27 18:34:24,636 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:34:31,136 - INFO - Phyton jumbo.txt has been added to the files to be deleted
+2025-08-27 18:34:31,137 - INFO - Purpose of visit.txt has been added to the files to be deleted
+2025-08-27 18:34:31,434 - INFO -  Objects have been deleted from my-test-boto3-bucket-2025 successfully
+2025-08-27 18:43:47,070 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:44:46,359 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:44:49,657 - INFO - ID: i-03314128da3d2b615 | State: running | Tags: [{'Key': 'env', 'Value': 'dev'}, {'Key': 'Name', 'Value': 'Test1'}]
+2025-08-27 18:44:49,658 - INFO - ID: i-0eda4a15549c8879f | State: running | Tags: [{'Key': 'Name', 'Value': 'Test2'}]
+2025-08-27 18:44:49,659 - INFO - ID: i-00d2c68e0fed2baaf | State: running | Tags: [{'Key': 'env', 'Value': 'prod'}, {'Key': 'Name', 'Value': 'Test3'}]
+2025-08-27 18:46:51,225 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:54:56,669 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:57:10,693 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:57:13,094 - INFO - ID: i-03314128da3d2b615 | State: running | Tags: [{'Key': 'env', 'Value': 'dev'}, {'Key': 'Name', 'Value': 'Test1'}]
+2025-08-27 18:57:13,095 - INFO - ID: i-0eda4a15549c8879f | State: running | Tags: [{'Key': 'Name', 'Value': 'Test2'}]
+2025-08-27 18:57:13,096 - INFO - ID: i-00d2c68e0fed2baaf | State: running | Tags: [{'Key': 'env', 'Value': 'prod'}, {'Key': 'Name', 'Value': 'Test3'}]
+2025-08-27 18:57:57,482 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:58:52,422 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:59:04,977 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 18:59:08,762 - INFO - 
+[MATCH] i-0eda4a15549c8879f -> Will be stopped (Tags: Name, Test2)
+2025-08-27 19:00:01,452 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:00:03,907 - INFO - ID: i-03314128da3d2b615 | State: running | Tags: [{'Key': 'env', 'Value': 'dev'}, {'Key': 'Name', 'Value': 'Test1'}]
+2025-08-27 19:00:03,908 - INFO - ID: i-0eda4a15549c8879f | State: running | Tags: [{'Key': 'Name', 'Value': 'Test2'}]
+2025-08-27 19:00:03,909 - INFO - ID: i-00d2c68e0fed2baaf | State: running | Tags: [{'Key': 'env', 'Value': 'prod'}, {'Key': 'Name', 'Value': 'Test3'}]
+2025-08-27 19:01:29,639 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:01:34,956 - INFO - [MATCH] i-0eda4a15549c8879f -> Will be stopped (Tags: Name, Test2)
+2025-08-27 19:03:04,868 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:03:07,278 - INFO - [MATCH] i-0eda4a15549c8879f -> Will be stopped (Tags: Name, Test2)
+2025-08-27 19:04:05,525 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:04:07,724 - INFO - [MATCH] i-0eda4a15549c8879f -> Will be stopped (Tags: Name, Test2)
+2025-08-27 19:04:32,255 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:04:35,255 - INFO - ID: i-03314128da3d2b615 | State: running | Tags: [{'Key': 'env', 'Value': 'dev'}, {'Key': 'Name', 'Value': 'Test1'}]
+2025-08-27 19:04:35,256 - INFO - ID: i-0eda4a15549c8879f | State: running | Tags: [{'Key': 'Name', 'Value': 'Test2'}]
+2025-08-27 19:04:35,258 - INFO - ID: i-00d2c68e0fed2baaf | State: running | Tags: [{'Key': 'env', 'Value': 'prod'}, {'Key': 'Name', 'Value': 'Test3'}]
+2025-08-27 19:04:45,412 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:04:47,664 - INFO - [MATCH] i-0eda4a15549c8879f -> Will be stopped (Tags: Name, Test2)
+2025-08-27 19:08:12,672 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:10:33,206 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:10:36,618 - INFO - 
+Stopping instances: (Namespace(config='config.json', dry_run=False, service='ec2', action='stop-instances', instance_ids=['i-0eda4a15549c8879f']), ['i-0eda4a15549c8879f'])
+2025-08-27 19:10:37,151 - INFO - 
+[WAITING].. Stopping i-0eda4a15549c8879f -> State: stopping
+2025-08-27 19:11:08,888 - INFO - 
+[DONE] i-0eda4a15549c8879f is now stopped
+2025-08-27 19:19:49,851 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:19:52,065 - INFO - ID: i-03314128da3d2b615 | State: running | Tags: [{'Key': 'env', 'Value': 'dev'}, {'Key': 'Name', 'Value': 'Test1'}]
+2025-08-27 19:19:52,066 - INFO - ID: i-0eda4a15549c8879f | State: running | Tags: [{'Key': 'Name', 'Value': 'Test2'}]
+2025-08-27 19:19:52,068 - INFO - ID: i-00d2c68e0fed2baaf | State: running | Tags: [{'Key': 'env', 'Value': 'prod'}, {'Key': 'Name', 'Value': 'Test3'}]
+2025-08-27 19:20:21,560 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:20:23,778 - INFO - [MATCH] i-0eda4a15549c8879f -> Will be stopped (Tags: Name, Test2)
+2025-08-27 19:20:54,536 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:21:32,486 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:21:35,824 - INFO - ID: i-03314128da3d2b615 | State: running | Tags: [{'Key': 'env', 'Value': 'dev'}, {'Key': 'Name', 'Value': 'Test1'}]
+2025-08-27 19:21:35,825 - INFO - ID: i-0eda4a15549c8879f | State: running | Tags: [{'Key': 'Name', 'Value': 'Test2'}]
+2025-08-27 19:21:35,826 - INFO - ID: i-00d2c68e0fed2baaf | State: running | Tags: [{'Key': 'env', 'Value': 'prod'}, {'Key': 'Name', 'Value': 'Test3'}]
+2025-08-27 19:22:04,932 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:22:08,128 - INFO - [MATCH] i-0eda4a15549c8879f -> Will be stopped (Tags: Name, Test2)
+2025-08-27 19:22:31,354 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:23:21,281 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:23:23,729 - INFO - ID: i-03314128da3d2b615 | State: running | Tags: [{'Key': 'env', 'Value': 'dev'}, {'Key': 'Name', 'Value': 'Test1'}]
+2025-08-27 19:23:23,730 - INFO - ID: i-0eda4a15549c8879f | State: running | Tags: [{'Key': 'Name', 'Value': 'Test2'}]
+2025-08-27 19:23:23,731 - INFO - ID: i-00d2c68e0fed2baaf | State: running | Tags: [{'Key': 'env', 'Value': 'prod'}, {'Key': 'Name', 'Value': 'Test3'}]
+2025-08-27 19:23:47,284 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:23:49,508 - INFO - [MATCH] i-0eda4a15549c8879f -> Will be stopped (Tags: Name, Test2)
+2025-08-27 19:24:14,560 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-27 19:24:17,100 - INFO - 
+Stopping instances: ['i-0eda4a15549c8879f']
+2025-08-27 19:24:17,447 - INFO - [WAITING].. Stopping i-0eda4a15549c8879f -> State: stopping
+2025-08-27 19:24:49,447 - INFO - [DONE] i-0eda4a15549c8879f is now stopped
+2025-08-30 02:43:15,985 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-30 02:43:54,296 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-30 02:43:58,950 - ERROR - Error creating Access key: An error occurred (InvalidClientTokenId) when calling the CreateAccessKey operation: The security token included in the request is invalid.
+2025-08-30 02:45:25,068 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-30 02:45:28,069 - INFO - New Access Key has been created for Test-User successfully
+2025-08-30 02:52:08,308 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-30 02:53:00,221 - INFO - Deleted access key AKIASDSM67VNZVK4JVFR for user Test-User.
