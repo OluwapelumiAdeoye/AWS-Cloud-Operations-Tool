@@ -19,6 +19,15 @@ list → List running EC2 instances with their IDs and IPs.
 stop → Stop one or multiple EC2 instances.
 terminate → Terminate one or multiple EC2 instances.
 
+Logging
+Every action performed is logged with details about:
+The service (IAM, S3, EC2)
+The action taken (e.g., list, create, delete)
+The timestamp of the action
+The result (success or error message)
+
+Logs are stored in a dedicated log file (e.g., aws_resource_tool.log) so you can trace what happened during execution.
+
 How It Works
 The tool uses argparse for command-line parsing. Each AWS service has its own subcommands for managing resources.
 
@@ -33,5 +42,12 @@ python main.py ec2 stop --instance-ids i-0123456789abcdef0
 python main.py s3 list-objects --bucket my-bucket-name
 
  A --dryrun flag is also available but excluded from demo runs so outputs remain practical.
+
+
+ Why This Project Matters
+Automates repetitive AWS tasks
+Reinforces best practices for handling IAM credentials
+Demonstrates Python + Boto3 usage for cloud resource management
+Improves reliability with logs and dry-run support
 
  
