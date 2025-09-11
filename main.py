@@ -8,7 +8,6 @@ from s3_actions import S3_ACTIONS
 from iam_actions import IAM_ACTIONS
 
 
-
 def load_config(config_path):
     if os.path.exists(config_path):
         with open(config_path) as file:
@@ -76,7 +75,7 @@ def get_args():
     iam_subparser = iam_parser.add_subparsers(dest="action", required=True)
     
     #IAM List Users parser
-    iam_subparser.add_parser("list-users", help="List IAM Users")
+    iam_subparser.add_parser("--list-users", help="List IAM Users")
 
     #IAM List User Keys
     list_keys = iam_subparser.add_parser("list-keys", help="List user access keys")
@@ -91,20 +90,12 @@ def get_args():
     delete_key.add_argument("--username", required =True, help="IAM Username")
     delete_key.add_argument("--access-key-id", required=True, help="Access Key ID to delete")
 
-
-
     #IAM Delete Old keys parser
     delete_oldkey_parser =  iam_subparser.add_parser("delete-old-keys", help="Delete old IAM Access keys")
     delete_oldkey_parser.add_argument("--username", help="IAM Username to delete Keys for")
     delete_oldkey_parser.add_argument("--key-max-age", type=int, default=30, help="Days after key are considered old")
 
-
-    
-    
     return parser.parse_args()
-
-
-
 
 def main():
     args = get_args()

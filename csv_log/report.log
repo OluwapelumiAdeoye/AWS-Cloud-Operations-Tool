@@ -118,3 +118,8 @@ Stopping instances: ['i-0eda4a15549c8879f']
 2025-08-30 02:45:28,069 - INFO - New Access Key has been created for Test-User successfully
 2025-08-30 02:52:08,308 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
 2025-08-30 02:53:00,221 - INFO - Deleted access key AKIASDSM67VNZVK4JVFR for user Test-User.
+2025-09-01 21:16:57,429 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-09-01 21:17:36,523 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-09-01 21:18:48,291 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-09-01 21:20:39,911 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-09-01 21:21:07,914 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
