@@ -13,7 +13,7 @@
 
   "_comment2": "This config controls the IAM section",
   "username": "user-adeoye", 
-  "key_max_age": 25
+  "key_max_age": 30
 
 }
 
