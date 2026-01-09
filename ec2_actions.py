@@ -3,7 +3,7 @@ from botocore.exceptions import ClientError
 from logging_setup import log_csv, logging
 import time
 
-ec2 = boto3.resource('ec2')
+#ec2 = boto3.resource('ec2')
 
 #List all instances
 def list_instances(args, config):
